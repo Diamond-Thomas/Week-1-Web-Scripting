@@ -1,0 +1,2 @@
+Journal Prompt: Where did you put your script tag?  Why?
+I put my script tag at the end of my body tag with space above it. I did this so that any information I want to add can be processed and sent before my code gets to the where it accesses my js script to run.
